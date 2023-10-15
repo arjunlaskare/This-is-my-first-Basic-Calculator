@@ -17,7 +17,7 @@ To get started with the calculator project, follow the steps below:
 1. Clone the repository to your local machine:
 
 shell
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/your-username/calculator.git
    
 
 
